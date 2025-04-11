@@ -1,0 +1,6 @@
+@CoreBaking.API_HostAddress = http://localhost:5017
+
+GET {{CoreBaking.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

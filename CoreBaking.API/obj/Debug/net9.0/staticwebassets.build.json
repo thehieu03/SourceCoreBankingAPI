@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QdbGZc4+KQEf7fuuJTS5jnwAGMeCCSTnGXhXPvtNVeo=",
+  "Source": "CoreBaking.API",
+  "BasePath": "_content/CoreBaking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
