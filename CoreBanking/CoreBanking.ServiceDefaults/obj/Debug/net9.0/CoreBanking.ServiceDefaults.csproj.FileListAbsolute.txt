@@ -6,6 +6,7 @@ C:\Users\hieun\source\repos\CoreBanking.NET\CoreBanking\CoreBanking.ServiceDefau
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBanking\CoreBanking.ServiceDefaults\obj\Debug\net9.0\CoreBanking.ServiceDefaults.AssemblyInfoInputs.cache
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBanking\CoreBanking.ServiceDefaults\obj\Debug\net9.0\CoreBanking.ServiceDefaults.AssemblyInfo.cs
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBanking\CoreBanking.ServiceDefaults\obj\Debug\net9.0\CoreBanking.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\hieun\source\repos\CoreBanking.NET\CoreBanking\CoreBanking.ServiceDefaults\obj\Debug\net9.0\CoreBanking.ServiceDefaults.sourcelink.json
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBanking\CoreBanking.ServiceDefaults\obj\Debug\net9.0\CoreBanking.ServiceDefaults.dll
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBanking\CoreBanking.ServiceDefaults\obj\Debug\net9.0\refint\CoreBanking.ServiceDefaults.dll
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBanking\CoreBanking.ServiceDefaults\obj\Debug\net9.0\CoreBanking.ServiceDefaults.pdb

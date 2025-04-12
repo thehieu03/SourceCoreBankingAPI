@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B82826BF-9029-61DA-BAA7-D31EA842D499}|CoreBanking.MigrationServices\\CoreBanking.MigrationServices.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.migrationservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82826BF-9029-61DA-BAA7-D31EA842D499}|CoreBanking.MigrationServices\\CoreBanking.MigrationServices.csproj|solutionrelative:corebanking.migrationservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B82826BF-9029-61DA-BAA7-D31EA842D499}|CoreBanking.MigrationServices\\CoreBanking.MigrationServices.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.migrationservices\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B82826BF-9029-61DA-BAA7-D31EA842D499}|CoreBanking.MigrationServices\\CoreBanking.MigrationServices.csproj|solutionrelative:corebanking.migrationservices\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +15,64 @@
       "RelativeMoniker": "D:0:0:{60DFDFC6-CF09-44C6-9824-D347542E5983}|CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj|solutionrelative:corebanking\\corebanking.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B82826BF-9029-61DA-BAA7-D31EA842D499}|CoreBanking.MigrationServices\\CoreBanking.MigrationServices.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.migrationservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B82826BF-9029-61DA-BAA7-D31EA842D499}|CoreBanking.MigrationServices\\CoreBanking.MigrationServices.csproj|solutionrelative:corebanking.migrationservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.infrastructure\\migrations\\20250412183526_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|solutionrelative:corebanking.infrastructure\\migrations\\20250412183526_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|solutionrelative:corebanking.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.infrastructure\\data\\corebankingcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|solutionrelative:corebanking.infrastructure\\data\\corebankingcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebaking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|solutionrelative:corebaking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.infrastructure\\entity\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|solutionrelative:corebanking.infrastructure\\entity\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EACDAEB1-1368-109B-9D43-CCC8E8B1678D}|CoreBanking\\CoreBanking.ServiceDefaults\\CoreBanking.ServiceDefaults.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking\\corebanking.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EACDAEB1-1368-109B-9D43-CCC8E8B1678D}|CoreBanking\\CoreBanking.ServiceDefaults\\CoreBanking.ServiceDefaults.csproj|solutionrelative:corebanking\\corebanking.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.infrastructure\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|solutionrelative:corebanking.infrastructure\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.infrastructure\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|solutionrelative:corebanking.infrastructure\\entity\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.infrastructure\\data\\corebankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|solutionrelative:corebanking.infrastructure\\data\\corebankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking.infrastructure\\corebanking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58F83102-D8DF-4707-8A67-C03C36198EAB}|CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj|solutionrelative:corebanking.infrastructure\\corebanking.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\obj\\Debug\\net9.0\\CoreBanking.Infrastructure.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoreBanking.Infrastructure\\obj\\Debug\\net9.0\\CoreBanking.Infrastructure.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebaking.api\\models\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|solutionrelative:corebaking.api\\models\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebaking.api\\models\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|solutionrelative:corebaking.api\\models\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebaking.api\\bootstraping\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|solutionrelative:corebaking.api\\bootstraping\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebaking.api\\apis\\corebankingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|solutionrelative:corebaking.api\\apis\\corebankingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebaking.api\\services\\corebankingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|solutionrelative:corebaking.api\\services\\corebankingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60DFDFC6-CF09-44C6-9824-D347542E5983}|CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebanking\\corebanking.apphost\\corebanking.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{60DFDFC6-CF09-44C6-9824-D347542E5983}|CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj|solutionrelative:corebanking\\corebanking.apphost\\corebanking.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|c:\\users\\hieun\\source\\repos\\corebanking.net\\corebaking.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE92BD57-2BEF-FA00-C5C8-FB0095914AAD}|CoreBaking.API\\CoreBaking.API.csproj|solutionrelative:corebaking.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,89 +119,222 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.MigrationServices\\Worker.cs",
-              "RelativeDocumentMoniker": "CoreBanking.MigrationServices\\Worker.cs",
-              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.MigrationServices\\Worker.cs",
-              "RelativeToolTip": "CoreBanking.MigrationServices\\Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:40:42.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.MigrationServices\\Program.cs",
               "RelativeDocumentMoniker": "CoreBanking.MigrationServices\\Program.cs",
               "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.MigrationServices\\Program.cs",
               "RelativeToolTip": "CoreBanking.MigrationServices\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:40:38.401Z",
+              "WhenOpened": "2025-04-12T19:15:08.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.MigrationServices\\Worker.cs",
+              "RelativeDocumentMoniker": "CoreBanking.MigrationServices\\Worker.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.MigrationServices\\Worker.cs",
+              "RelativeToolTip": "CoreBanking.MigrationServices\\Worker.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:05:54.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "CoreBanking.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "CoreBanking.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20250412183526_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Migrations\\20250412183526_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CoreBanking.Infrastructure\\Migrations\\20250412183526_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Migrations\\20250412183526_InitialCreate.cs",
+              "RelativeToolTip": "CoreBanking.Infrastructure\\Migrations\\20250412183526_InitialCreate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:32:27.994Z"
+              "WhenOpened": "2025-04-12T18:36:16.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking\\CoreBanking.ServiceDefaults\\Extensions.cs",
-              "RelativeDocumentMoniker": "CoreBanking\\CoreBanking.ServiceDefaults\\Extensions.cs",
-              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking\\CoreBanking.ServiceDefaults\\Extensions.cs",
-              "RelativeToolTip": "CoreBanking\\CoreBanking.ServiceDefaults\\Extensions.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAewA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:25:27.269Z"
+              "DocumentIndex": 9,
+              "Title": "CoreBanking.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj",
+              "RelativeToolTip": "CoreBanking.Infrastructure\\CoreBanking.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T18:29:00.921Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Program.cs",
-              "RelativeDocumentMoniker": "CoreBaking.API\\Program.cs",
-              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Program.cs",
-              "RelativeToolTip": "CoreBaking.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "CoreBankingContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Data\\CoreBankingContextFactory.cs",
+              "RelativeDocumentMoniker": "CoreBanking.Infrastructure\\Data\\CoreBankingContextFactory.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Data\\CoreBankingContextFactory.cs",
+              "RelativeToolTip": "CoreBanking.Infrastructure\\Data\\CoreBankingContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:25:17.833Z"
+              "WhenOpened": "2025-04-12T18:27:55.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoreBankingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Data\\CoreBankingDbContext.cs",
+              "RelativeDocumentMoniker": "CoreBanking.Infrastructure\\Data\\CoreBankingDbContext.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Data\\CoreBankingDbContext.cs",
+              "RelativeToolTip": "CoreBanking.Infrastructure\\Data\\CoreBankingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:18:20.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Entity\\Transaction.cs",
+              "RelativeDocumentMoniker": "CoreBanking.Infrastructure\\Entity\\Transaction.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Entity\\Transaction.cs",
+              "RelativeToolTip": "CoreBanking.Infrastructure\\Entity\\Transaction.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:05:19.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Entity\\Account.cs",
+              "RelativeDocumentMoniker": "CoreBanking.Infrastructure\\Entity\\Account.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Entity\\Account.cs",
+              "RelativeToolTip": "CoreBanking.Infrastructure\\Entity\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:04:58.51Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CoreBanking.AppHost.csproj",
-              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj",
-              "RelativeDocumentMoniker": "CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj",
-              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj",
-              "RelativeToolTip": "CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-11T06:38:04.877Z"
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "CoreBanking.Infrastructure\\Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\Entity\\Customer.cs",
+              "RelativeToolTip": "CoreBanking.Infrastructure\\Entity\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:04:47.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking\\CoreBanking.AppHost\\Program.cs",
               "RelativeDocumentMoniker": "CoreBanking\\CoreBanking.AppHost\\Program.cs",
               "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking\\CoreBanking.AppHost\\Program.cs",
               "RelativeToolTip": "CoreBanking\\CoreBanking.AppHost\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T04:27:00.664Z",
+              "WhenOpened": "2025-04-11T09:10:10.928Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoreBanking.Infrastructure.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\obj\\Debug\\net9.0\\CoreBanking.Infrastructure.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "CoreBanking.Infrastructure\\obj\\Debug\\net9.0\\CoreBanking.Infrastructure.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking.Infrastructure\\obj\\Debug\\net9.0\\CoreBanking.Infrastructure.GlobalUsings.g.cs",
+              "RelativeToolTip": "CoreBanking.Infrastructure\\obj\\Debug\\net9.0\\CoreBanking.Infrastructure.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:29:47.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoreBanking.AppHost.csproj",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj",
+              "RelativeDocumentMoniker": "CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj",
+              "RelativeToolTip": "CoreBanking\\CoreBanking.AppHost\\CoreBanking.AppHost.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAABEwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T13:12:19.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaginationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Models\\PaginationResponse.cs",
+              "RelativeDocumentMoniker": "CoreBaking.API\\Models\\PaginationResponse.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Models\\PaginationResponse.cs",
+              "RelativeToolTip": "CoreBaking.API\\Models\\PaginationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:22:33.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoreBankingApi.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\apis\\CoreBankingApi.cs",
+              "RelativeDocumentMoniker": "CoreBaking.API\\apis\\CoreBankingApi.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\apis\\CoreBankingApi.cs",
+              "RelativeToolTip": "CoreBaking.API\\apis\\CoreBankingApi.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA1wAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:13:07.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaginationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Models\\PaginationRequest.cs",
+              "RelativeDocumentMoniker": "CoreBaking.API\\Models\\PaginationRequest.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Models\\PaginationRequest.cs",
+              "RelativeToolTip": "CoreBaking.API\\Models\\PaginationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:17:16.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CoreBankingServices.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Services\\CoreBankingServices.cs",
+              "RelativeDocumentMoniker": "CoreBaking.API\\Services\\CoreBankingServices.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Services\\CoreBankingServices.cs",
+              "RelativeToolTip": "CoreBaking.API\\Services\\CoreBankingServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:15:12.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Bootstraping\\ApplicationServicesExtensions.cs",
+              "RelativeDocumentMoniker": "CoreBaking.API\\Bootstraping\\ApplicationServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\Bootstraping\\ApplicationServicesExtensions.cs",
+              "RelativeToolTip": "CoreBaking.API\\Bootstraping\\ApplicationServicesExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:10:14.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "CoreBaking.API\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\GlobalUsing.cs",
+              "RelativeToolTip": "CoreBaking.API\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:10:12.084Z"
             }
           ]
         }

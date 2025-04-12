@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "21U0vjOgjq8=",
+  "dgSpecHash": "naj4IvZ4E90=",
   "success": true,
   "projectFilePath": "C:\\Users\\hieun\\source\\repos\\CoreBanking.NET\\CoreBaking.API\\CoreBaking.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hieun\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
+    "C:\\Users\\hieun\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512",
     "C:\\Users\\hieun\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\hieun\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
     "C:\\Users\\hieun\\.nuget\\packages\\grpc.net.client\\2.52.0\\grpc.net.client.2.52.0.nupkg.sha512",

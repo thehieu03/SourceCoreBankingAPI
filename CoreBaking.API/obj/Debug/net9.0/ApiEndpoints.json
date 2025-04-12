@@ -1,21 +1,137 @@
 [
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec__DisplayClass0_0",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0",
-    "RelativePath": "weatherforecast",
+    "ContainingType": "CoreBaking.API.apis.CoreBankingApi",
+    "Method": "GetAccounts",
+    "RelativePath": "api/v{version:apiVersion}/corebanking/accounts",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "WeatherForecast[]",
-        "MediaTypes": [
-          "application/json"
-        ],
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "Tags": [
+      "CoreBanking"
+    ]
+  },
+  {
+    "ContainingType": "CoreBaking.API.apis.CoreBankingApi",
+    "Method": "Deposit",
+    "RelativePath": "api/v{version:apiVersion}/corebanking/accounts/{id:guid}/deposit",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "CoreBanking"
+    ]
+  },
+  {
+    "ContainingType": "CoreBaking.API.apis.CoreBankingApi",
+    "Method": "Transfer",
+    "RelativePath": "api/v{version:apiVersion}/corebanking/accounts/{id:guid}/transfer",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "CoreBanking"
+    ]
+  },
+  {
+    "ContainingType": "CoreBaking.API.apis.CoreBankingApi",
+    "Method": "Withdraw",
+    "RelativePath": "api/v{version:apiVersion}/corebanking/accounts/{id:guid}/withdraw",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "CoreBanking"
+    ]
+  },
+  {
+    "ContainingType": "CoreBaking.API.apis.CoreBankingApi",
+    "Method": "GetCustomer",
+    "RelativePath": "api/v{version:apiVersion}/corebanking/customers",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "CoreBanking"
+    ]
   }
 ]

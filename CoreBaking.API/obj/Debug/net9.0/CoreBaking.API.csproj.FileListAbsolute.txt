@@ -6,6 +6,8 @@ C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\bin\Debug\net9.0\Core
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\bin\Debug\net9.0\CoreBaking.API.runtimeconfig.json
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\bin\Debug\net9.0\CoreBaking.API.dll
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\bin\Debug\net9.0\CoreBaking.API.pdb
+C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\bin\Debug\net9.0\Asp.Versioning.Abstractions.dll
+C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\bin\Debug\net9.0\Asp.Versioning.Http.dll
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\bin\Debug\net9.0\Google.Protobuf.dll
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\bin\Debug\net9.0\Grpc.Core.Api.dll
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\bin\Debug\net9.0\Grpc.Net.Client.dll
@@ -44,6 +46,7 @@ C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\obj\Debug\net9.0\Core
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\obj\Debug\net9.0\CoreBaking.API.csproj.CoreCompileInputs.cache
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\obj\Debug\net9.0\CoreBaking.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\obj\Debug\net9.0\CoreBaking.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\obj\Debug\net9.0\CoreBaking.API.sourcelink.json
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\obj\Debug\net9.0\scopedcss\bundle\CoreBaking.API.styles.css
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\hieun\source\repos\CoreBanking.NET\CoreBaking.API\obj\Debug\net9.0\staticwebassets.development.json
